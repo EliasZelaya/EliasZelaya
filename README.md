@@ -1,20 +1,5 @@
 ![Header](./header.gif)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ## Hey!, I'm [Elias Zelaya!]([https://github.com/mehediislamripon/](https://github.com/Elias8420?tab=repositories)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 ### Glad to see you here! :octocat:
@@ -113,5 +98,22 @@ My goals are to continuously improve my skills, develop high-impact projects, le
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehediislamripon&show_icons=true&hide_border=true&theme=tokyonight" alt="mehediislamripon's stats" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediislamripon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mehediislamripon's stats"/>
 </p>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 ---
