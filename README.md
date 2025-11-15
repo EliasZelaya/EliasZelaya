@@ -89,14 +89,14 @@ My goals are to continuously improve my skills, develop high-impact projects, le
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <img alt="mehediislamripon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehediislamripon&theme=tokyonight&hide_border=true"/>
+    <img alt="Elias's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elias8420&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehediislamripon&show_icons=true&hide_border=true&theme=tokyonight" alt="mehediislamripon's stats" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediislamripon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mehediislamripon's stats"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias8420&show_icons=true&hide_border=true&theme=tokyonight" alt="Elias8420's stats" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elias8420&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Elias8420's stats"/>
 </p>
 
 <div align="center">
