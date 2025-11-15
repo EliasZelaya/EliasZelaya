@@ -1,3 +1,5 @@
+![Header](./header.gif)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
