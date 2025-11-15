@@ -13,14 +13,17 @@
   />
 </picture>
 
-## Hey!, I'm [Elias Zelaya!](https://github.com/mehediislamripon/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+## Hey!, I'm [Elias Zelaya!]([https://github.com/mehediislamripon/](https://github.com/Elias8420?tab=repositories)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 ### Glad to see you here! :octocat:
 
-I am a passionate **Software Engineer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
-I currently reside in the capital city of Dhaka, Bangladesh. I am pursuing my Bachelor's degree in Computer Science and Engineering from the prestigious Dhaka International University. Previously, I completed my Diploma in Engineering from Aptouch Polytechnic Institute in Dinajpur.
-Beyond my learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
-My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
+I am a passionate **Backend Developer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
+I currently reside in the capital city San Salvador, El Salvador.
+
+I am currently studying Computer Engineering at UCA. Previously, I earned my specialization in computing from Emmanuel Baptist School.
+Besides my studies, I enjoy sharing my knowledge and skills in backend development. In my free time, I enjoy playing video games, my favorite is The Legend of Zelda :D, watching anime, and listening to music. I like all kinds of music, except trap and reggaeton, haha.
+
+My goals are to continuously improve my skills, develop high-impact projects, learn about DevOps and Cibersecurity, and ultimately, apply my abilities to create value for organizations and individuals through software. I am excited about the opportunity to contribute my passion and creativity to your excellent team :D.
 
 ---
 
@@ -29,27 +32,72 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/mehediislamripon/mehediislamripon/main/img/MehediIslamRipon.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
--  📰 &nbsp; Reading tech blogs whenever possible.
--  🍕 &nbsp; Travelling, meetups & tech events.
--  🚀 &nbsp; I’m currently learning Full Stack Web Development.
--  :computer: &nbsp; Most written code line `console.log("hello world");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mehediislamripon).
--  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1DO2-52IhDOgjrSsMZUr949KFxjTZ_wdg/view?usp=drive_link).
+-  🚀 &nbsp; I’m currently learning cloud services.
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Elias8420).
+-  🌱 &nbsp; I’m passionate about Cloud computing and backend development.
+-  📝 &nbsp; Fun fact: Null Pointer Exception... >:(.
+-  ⚙️ &nbsp; Tech stack: Spring Boot, Express, PostgreSQL, Docker, Typescript.
+-  💬 &nbsp; Ask me about Spring Boot, Express, SQL and Cibersecurity.
+-  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1U1hg22Z6XnbY1sj47pNQ4btrqmct4C84/view?usp=sharing)
 
 &nbsp; &nbsp; &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehedi-islam-ripon/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20From%20Github) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MehediIslam404) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/10423770/mehedi-islam-ripon) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/el%C3%ADas-zelaya-670351375/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:eliaszelaya747@gmail.com?subject=Hello%20Mehedi,%20From%20Github) &nbsp;
 
 ---
 
 ### :dart: Languages and Tools:
 
-> Tools, languages, and other things that I like to work with.
+### 💻 Languages
+[![JavaScript, TypeScript, Python, Java, C++, C, C#, Kotlin](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,kotlin)](https://github.com/Elias8420)
 
-[![HTML, CSS, Javascrpt, Typescript, C#, GraphQL, React.js, Next.js, Bootstrap, TailwindCSS, MaterialUI, Styledcomponents, Redux, Node.js, MongoDB, Express.js, Pug, Git, Github, Powershell, VScode, Photoshop, Figma, Postman, Markdown, Vercel, Linux](https://skillicons.dev/icons?i=html,css,js,ts,cs,graphql,react,next,bootstrap,tailwind,materialui,styledcomponents,redux,nodejs,mongo,express,pug,git,github,powershell,vscode,ps,figma,postman,md,vercel,linux,)](https://github.com/mehediislamripon)
+### 🎨 Frontend
+[![HTML, CSS, React, Next.js, TailwindCSS, MaterialUI, Vite, Sass, Babel](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,vite,sass,babel)](https://github.com/Elias8420)
+
+### ⚙️ Backend & Frameworks
+[![Node.js, Express, NestJS, Spring Boot, Django](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django)](https://github.com/Elias8420)
+
+### 🗄️ Databases
+[![MongoDB, PostgreSQL, MySQL](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](#)
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+### 🤖 Machine Learning & Data Science
+[![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch)](#)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+### 📊 Data analysis & BI
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+### 📝 Microsoft
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+
+
+### ☁️ Cloud & Service
+[![AWS, GCP, Firebase, Vercel](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)](https://github.com/Elias8420)
+
+### 📦 Package Manager
+[![npm, yarn](https://skillicons.dev/icons?i=npm,yarn)](https://github.com/Elias8420)
+
+### 🧪 Testing
+[![Jest](https://skillicons.dev/icons?i=jest)](https://github.com/Elias8420)
+
+### 🔧 Tools & DevOps
+[![Git, GitHub, Docker, Linux, Powershell, Nginx](https://skillicons.dev/icons?i=git,github,docker,linux,powershell,nginx)](https://github.com/Elias8420)
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+
+### 🎯 IDEs
+[![VSCode, IntelliJ, Android Studio](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://github.com/Elias8420)
+
+### 🎨 Design & Testing APIs
+[![Figma, Photoshop, Postman, Markdown](https://skillicons.dev/icons?i=figma,ps,postman,md)](#)
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" /> &nbsp;
+
+---
 
 ### ☄️ Github Streaks:
 
@@ -60,34 +108,8 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=mehediislamripon&show_icons=true&hide_border=true&theme=tokyonight" alt="mehediislamripon's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediislamripon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mehediislamripon's stats"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehediislamripon&show_icons=true&hide_border=true&theme=tokyonight" alt="mehediislamripon's stats" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediislamripon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mehediislamripon's stats"/>
 </p>
 
 ---
-
-### ⚙️ Things I use to get stuff done:
-
--  OS: Windows 11, Linux mint (cinnamon)
--  Machine: ASUS VivoBook 15 X512FJ
--  Browser: Brave and Chrome
--  Terminal: Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)
--  Code Editor: VSCode - The best editor out there.
-<details>
-  <summary>💻 Typeracer Scorecard:</summary>
-	<img src="https://data.typeracer.com/misc/badge?user=mehediislamripon" alt="mehediislamripon's typeracer Scorecard">
-	<br/>
-  	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
-</details>
-<!-- <details>
-  <summary> 🎧 I'm Listening Now:</summary>
-	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="mehediislamripon's Spotify status">
-</a>
-</details> -->
-  
-  ---
-
-<!-- <p>
-<img alt="mehediislamripon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mehediislamripon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p> -->
